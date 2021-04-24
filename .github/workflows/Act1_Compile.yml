@@ -14,6 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: get_avr-gcc
+      working-directory: ./Activity1
       run: sudo apt-get install gcc-avr binutils-avr avr-libc
     - name: Compile
       run: make
