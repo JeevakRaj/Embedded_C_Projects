@@ -8,6 +8,13 @@
 |:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Compile.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/748534476bd44955b64041a3571ae381)](https://www.codacy.com/gh/JeevakRaj/Embedded_C_Projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JeevakRaj/Embedded_C_Projects&amp;utm_campaign=Badge_Grade)|
 
+### Functionality
+
+* The LED glows only if the seat is occupied and heater is turned on.
+* Analog input from the temperature sensor is received and digitized.
+* The digitized temperature value is compared to the threshold value and PWM is set accordingly.
+* The temperature values is transmitted by the UART protocol whenever there is a change. Here the data is displayed on the serial monitor.
+
 ## In Action
 
 ### Activity1
