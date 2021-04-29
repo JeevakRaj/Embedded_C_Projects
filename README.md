@@ -13,6 +13,6 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Act1_Compile.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Act1_Compile.yml)|[![Cppcheck](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Act1_CodeQuality.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Act1_CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/748534476bd44955b64041a3571ae381)](https://www.codacy.com/gh/JeevakRaj/Embedded_C_Projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JeevakRaj/Embedded_C_Projects&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Compile.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/JeevakRaj/Embedded_C_Projects/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/748534476bd44955b64041a3571ae381)](https://www.codacy.com/gh/JeevakRaj/Embedded_C_Projects/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JeevakRaj/Embedded_C_Projects&amp;utm_campaign=Badge_Grade)|
 
 
